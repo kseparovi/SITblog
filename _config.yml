@@ -55,6 +55,6 @@ plugins:
 #   - vendor/ruby/
 
 baseurl: "/SITblog" # the subpath of your site, e.g. /blog
-url: "https://fpehar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/kseparovi/SITblog" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username: fpehar
+github_username: Kseparovi
